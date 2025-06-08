@@ -1,0 +1,1046 @@
+[
+  {
+    "date": "2025-05-31",
+    "total": "24683.50"
+  },
+  {
+    "id": 1267,
+    "code": "INV-9385",
+    "product": "Industrial CNC Router X5200",
+    "customer": "Carlos Mendoza",
+    "total": "8500.00",
+    "status": "pending"
+  },
+  {
+    "id": 1266,
+    "code": "INV-9384",
+    "product": "Professional Welding Kit VDHL320",
+    "customer": "James Wilson",
+    "total": "3450.00",
+    "status": "paid"
+  },
+  {
+    "id": 1265,
+    "code": "INV-9383",
+    "product": "Table Saw STHL-450",
+    "customer": "Sofía Rodríguez",
+    "total": "6200.00",
+    "status": "paid"
+  },
+  {
+    "id": 1264,
+    "code": "INV-9382",
+    "product": "Industrial Air Compressor CMPR-790",
+    "customer": "Ryan Thompson",
+    "total": "6533.50",
+    "status": "pending"
+  },
+  {
+    "date": "2025-05-30",
+    "total": "18950.75"
+  },
+  {
+    "id": 1263,
+    "code": "INV-9381",
+    "product": "Hammer Drill HDR-9800",
+    "customer": "Alejandro García",
+    "total": "2400.00",
+    "status": "paid"
+  },
+  {
+    "id": 1262,
+    "code": "INV-9380",
+    "product": "Electric Generator GEN-5500",
+    "customer": "Emily Davis",
+    "total": "7200.00",
+    "status": "paid"
+  },
+  {
+    "id": 1261,
+    "code": "INV-9379",
+    "product": "Cordless Impact Wrench IW-890",
+    "customer": "Diego Hernández",
+    "total": "1850.75",
+    "status": "paid"
+  },
+  {
+    "id": 1260,
+    "code": "INV-9378",
+    "product": "Portable Band Saw PBS-200",
+    "customer": "Matthew Taylor",
+    "total": "7500.00",
+    "status": "pending"
+  },
+  {
+    "date": "2025-05-29",
+    "total": "16387.45"
+  },
+  {
+    "id": 1259,
+    "code": "INV-9377",
+    "product": "Digital Multimeter DM-9000",
+    "customer": "Valentina López",
+    "total": "950.00",
+    "status": "unPaid"
+  },
+  {
+    "id": 1258,
+    "code": "INV-9376",
+    "product": "Rotary Hammer Drill RHD-2400",
+    "customer": "Daniel Martinez",
+    "total": "3200.00",
+    "status": "paid"
+  },
+  {
+    "id": 1257,
+    "code": "INV-9375",
+    "product": "Pipe Threading Machine PTM-1000",
+    "customer": "Olivia Anderson",
+    "total": "5670.45",
+    "status": "paid"
+  },
+  {
+    "id": 1256,
+    "code": "INV-9374",
+    "product": "Pneumatic Nail Gun PNG-450",
+    "customer": "Juan Pérez",
+    "total": "1567.00",
+    "status": "paid"
+  },
+  {
+    "id": 1255,
+    "code": "INV-9373",
+    "product": "12V Impact Driver ID-580",
+    "customer": "Emma White",
+    "total": "5000.00",
+    "status": "pending"
+  },
+  {
+    "date": "2025-05-28",
+    "total": "19780.30"
+  },
+  {
+    "id": 1254,
+    "code": "INV-9372",
+    "product": "Orbital Sander OS-300",
+    "customer": "Ricardo Silva",
+    "total": "1200.00",
+    "status": "paid"
+  },
+  {
+    "id": 1253,
+    "code": "INV-9371",
+    "product": "Heavy Duty Chain Hoist CH-2000",
+    "customer": "Sophia Clark",
+    "total": "3760.50",
+    "status": "paid"
+  },
+  {
+    "id": 1252,
+    "code": "INV-9370",
+    "product": "Laser Level LL-360",
+    "customer": "Gabriel Ortega",
+    "total": "2340.80",
+    "status": "paid"
+  },
+  {
+    "id": 1251,
+    "code": "INV-9369",
+    "product": "Industrial Router IR-1200",
+    "customer": "Noah Johnson",
+    "total": "5600.00",
+    "status": "paid"
+  },
+  {
+    "id": 1250,
+    "code": "INV-9368",
+    "product": "Metal Cutting Bandsaw MCB-350",
+    "customer": "Camila Fernández",
+    "total": "6879.00",
+    "status": "unPaid"
+  },
+  {
+    "date": "2025-05-27",
+    "total": "11298.60"
+  },
+  {
+    "id": 1249,
+    "code": "INV-9367",
+    "product": "Cordless Circular Saw CCS-575",
+    "customer": "Lucas Brown",
+    "total": "3480.60",
+    "status": "paid"
+  },
+  {
+    "id": 1248,
+    "code": "INV-9366",
+    "product": "Bench Grinder BG-800",
+    "customer": "Isabella González",
+    "total": "1850.00",
+    "status": "paid"
+  },
+  {
+    "id": 1247,
+    "code": "INV-9365",
+    "product": "Submersible Water Pump SWP-1500",
+    "customer": "Ethan Harris",
+    "total": "5968.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-26",
+    "total": "23450.85"
+  },
+  {
+    "id": 1246,
+    "code": "INV-9364",
+    "product": "HVLP Paint Sprayer PS-3000",
+    "customer": "Lucía Ramírez",
+    "total": "2860.85",
+    "status": "unPaid"
+  },
+  {
+    "id": 1245,
+    "code": "INV-9363",
+    "product": "Electric Floor Sander EFS-650",
+    "customer": "Alexander Lee",
+    "total": "4580.00",
+    "status": "paid"
+  },
+  {
+    "id": 1244,
+    "code": "INV-9362",
+    "product": "Demolition Hammer DH-1800",
+    "customer": "María Sánchez",
+    "total": "7710.00",
+    "status": "pending"
+  },
+  {
+    "id": 1243,
+    "code": "INV-9361",
+    "product": "Professional Tile Cutter PTC-900",
+    "customer": "William Martin",
+    "total": "3800.00",
+    "status": "paid"
+  },
+  {
+    "id": 1242,
+    "code": "INV-9360",
+    "product": "Jobsite Table Saw JTS-254",
+    "customer": "Ana Torres",
+    "total": "6000.00",
+    "status": "unpaid"
+  },
+  {
+    "date": "2025-05-25",
+    "total": "16975.20"
+  },
+  {
+    "id": 1241,
+    "code": "INV-9359",
+    "product": "Concrete Mixer CM-180",
+    "customer": "David Wilson",
+    "total": "9275.20",
+    "status": "unPaid"
+  },
+  {
+    "id": 1240,
+    "code": "INV-9358",
+    "product": "Power Planer PP-750",
+    "customer": "Carolina Vargas",
+    "total": "2500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1239,
+    "code": "INV-9357",
+    "product": "Angle Grinder AG-900",
+    "customer": "Christopher Allen",
+    "total": "1200.00",
+    "status": "paid"
+  },
+  {
+    "id": 1238,
+    "code": "INV-9356",
+    "product": "High Pressure Washer HPW-2200",
+    "customer": "Patricia Castro",
+    "total": "4000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-24",
+    "total": "9780.40"
+  },
+  {
+    "id": 1237,
+    "code": "INV-9355",
+    "product": "Wet/Dry Shop Vacuum SV-1400",
+    "customer": "Daniel Kim",
+    "total": "2780.40",
+    "status": "paid"
+  },
+  {
+    "id": 1236,
+    "code": "INV-9354",
+    "product": "Electric Chain Saw ECS-400",
+    "customer": "Fernanda Rojas",
+    "total": "3500.00",
+    "status": "unPaid"
+  },
+  {
+    "id": 1235,
+    "code": "INV-9353",
+    "product": "Portable Bandsaw PBS-150",
+    "customer": "Joseph Scott",
+    "total": "3500.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-23",
+    "total": "12675.90"
+  },
+  {
+    "id": 1234,
+    "code": "INV-9352",
+    "product": "Rotary Tool Kit RTK-250",
+    "customer": "Adriana Morales",
+    "total": "1675.90",
+    "status": "paid"
+  },
+  {
+    "id": 1233,
+    "code": "INV-9351",
+    "product": "Magnetic Drill Press MDP-1200",
+    "customer": "Kevin Adams",
+    "total": "7500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1232,
+    "code": "INV-9350",
+    "product": "Oscillating Tool OT-500",
+    "customer": "Raúl Herrera",
+    "total": "3500.00",
+    "status": "pending"
+  },
+  {
+    "id": 1231,
+    "code": "INV-9349",
+    "product": "12V Drill Driver DD-400",
+    "customer": "Jennifer Lewis",
+    "total": "2000.00",
+    "status": "unpaid"
+  },
+  {
+    "date": "2025-05-22",
+    "total": "21490.60"
+  },
+  {
+    "id": 1230,
+    "code": "INV-9348",
+    "product": "Plate Compactor PC-90",
+    "customer": "Jorge Díaz",
+    "total": "6490.60",
+    "status": "unPaid"
+  },
+  {
+    "id": 1229,
+    "code": "INV-9347",
+    "product": "Compound Miter Saw CMS-300",
+    "customer": "Amanda Roberts",
+    "total": "8500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1228,
+    "code": "INV-9346",
+    "product": "Air Impact Wrench AIW-850",
+    "customer": "Miguel Ángel Soto",
+    "total": "4500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1227,
+    "code": "INV-9345",
+    "product": "Reciprocating Saw RS-1100",
+    "customer": "Sarah Miller",
+    "total": "2000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-21",
+    "total": "15320.75"
+  },
+  {
+    "id": 1226,
+    "code": "INV-9344",
+    "product": "Router Table RT-800",
+    "customer": "Roberto Jiménez",
+    "total": "3700.75",
+    "status": "paid"
+  },
+  {
+    "id": 1225,
+    "code": "INV-9343",
+    "product": "Industrial Vacuum Cleaner IVC-450",
+    "customer": "Elizabeth Hall",
+    "total": "5620.00",
+    "status": "paid"
+  },
+  {
+    "id": 1224,
+    "code": "INV-9342",
+    "product": "Hydraulic Floor Jack HFJ-3T",
+    "customer": "Andrés Méndez",
+    "total": "6000.00",
+    "status": "unpaid"
+  },
+  {
+    "date": "2025-05-20",
+    "total": "18950.30"
+  },
+  {
+    "id": 1223,
+    "code": "INV-9341",
+    "product": "Cordless Lawn Mower CLM-400",
+    "customer": "Natalie Green",
+    "total": "5870.30",
+    "status": "paid"
+  },
+  {
+    "id": 1222,
+    "code": "INV-9340",
+    "product": "Digital Torque Wrench DTW-250",
+    "customer": "Hugo Flores",
+    "total": "3240.00",
+    "status": "unPaid"
+  },
+  {
+    "id": 1221,
+    "code": "INV-9339",
+    "product": "Gasoline Power Generator GPG-7500",
+    "customer": "Victoria Baker",
+    "total": "9840.00",
+    "status": "pending"
+  },
+  {
+    "date": "2025-05-19",
+    "total": "14250.70"
+  },
+  {
+    "id": 1220,
+    "code": "INV-9338",
+    "product": "Electric Hand Planer EHP-850",
+    "customer": "Luis Navarro",
+    "total": "2350.70",
+    "status": "paid"
+  },
+  {
+    "id": 1219,
+    "code": "INV-9337",
+    "product": "Benchtop Drill Press BDP-500",
+    "customer": "Grace Turner",
+    "total": "4900.00",
+    "status": "paid"
+  },
+  {
+    "id": 1218,
+    "code": "INV-9336",
+    "product": "Scroll Saw SS-400",
+    "customer": "Felipe Reyes",
+    "total": "3500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1217,
+    "code": "INV-9335",
+    "product": "Cordless Leaf Blower CLB-200",
+    "customer": "Chloe Parker",
+    "total": "3500.00",
+    "status": "unPaid"
+  },
+  {
+    "date": "2025-05-18",
+    "total": "9675.80"
+  },
+  {
+    "id": 1216,
+    "code": "INV-9334",
+    "product": "Heat Gun HG-2000",
+    "customer": "Ricardo Vega",
+    "total": "1275.80",
+    "status": "paid"
+  },
+  {
+    "id": 1215,
+    "code": "INV-9333",
+    "product": "Air Compressor AC-500",
+    "customer": "Zoe Carter",
+    "total": "4500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1214,
+    "code": "INV-9332",
+    "product": "Cordless Rotary Tool CRT-180",
+    "customer": "Manuel Delgado",
+    "total": "3900.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-17",
+    "total": "13470.50"
+  },
+  {
+    "id": 1213,
+    "code": "INV-9331",
+    "product": "Tile Saw TS-700",
+    "customer": "Ava Mitchell",
+    "total": "5670.50",
+    "status": "paid"
+  },
+  {
+    "id": 1212,
+    "code": "INV-9330",
+    "product": "Band Saw BS-350",
+    "customer": "Javier Ruiz",
+    "total": "4800.00",
+    "status": "paid"
+  },
+  {
+    "id": 1211,
+    "code": "INV-9329",
+    "product": "Cordless Stapler CS-200",
+    "customer": "Madison Foster",
+    "total": "3000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-16",
+    "total": "16840.90"
+  },
+  {
+    "id": 1210,
+    "code": "INV-9328",
+    "product": "Industrial Dehumidifier ID-850",
+    "customer": "Eduardo Castillo",
+    "total": "8940.90",
+    "status": "paid"
+  },
+  {
+    "id": 1209,
+    "code": "INV-9327",
+    "product": "Router Bit Set RBS-100",
+    "customer": "Hannah Bennett",
+    "total": "2400.00",
+    "status": "unPaid"
+  },
+  {
+    "id": 1208,
+    "code": "INV-9326",
+    "product": "Log Splitter LS-20T",
+    "customer": "Santiago Moreno",
+    "total": "5500.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-15",
+    "total": "22170.60"
+  },
+  {
+    "id": 1207,
+    "code": "INV-9325",
+    "product": "Welding Machine WM-200",
+    "customer": "Abigail Cooper",
+    "total": "5470.60",
+    "status": "paid"
+  },
+  {
+    "id": 1206,
+    "code": "INV-9324",
+    "product": "Table Router TR-500",
+    "customer": "Raul Gómez",
+    "total": "6700.00",
+    "status": "paid"
+  },
+  {
+    "id": 1205,
+    "code": "INV-9323",
+    "product": "Powder-Actuated Tool PAT-3000",
+    "customer": "Scarlett Reed",
+    "total": "10000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-14",
+    "total": "17850.30"
+  },
+  {
+    "id": 1204,
+    "code": "INV-9322",
+    "product": "Electric Lawn Edger ELE-400",
+    "customer": "Alonso Mendoza",
+    "total": "2350.30",
+    "status": "paid"
+  },
+  {
+    "id": 1203,
+    "code": "INV-9321",
+    "product": "Cordless Nailer CN-200",
+    "customer": "Lily Collins",
+    "total": "3500.00",
+    "status": "unPaid"
+  },
+  {
+    "id": 1202,
+    "code": "INV-9320",
+    "product": "Wet Tile Saw WTS-800",
+    "customer": "Mateo Cruz",
+    "total": "7000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1201,
+    "code": "INV-9319",
+    "product": "Pressure Washer PW-2800",
+    "customer": "Avery Simmons",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-13",
+    "total": "12580.70"
+  },
+  {
+    "id": 1200,
+    "code": "INV-9318",
+    "product": "Bench Vise BV-150",
+    "customer": "Rafael Ochoa",
+    "total": "1580.70",
+    "status": "paid"
+  },
+  {
+    "id": 1199,
+    "code": "INV-9317",
+    "product": "Hydraulic Bottle Jack HBJ-20T",
+    "customer": "Charlotte Hughes",
+    "total": "2500.00",
+    "status": "unpaid"
+  },
+  {
+    "id": 1198,
+    "code": "INV-9316",
+    "product": "Cordless Hedge Trimmer CHT-500",
+    "customer": "Joaquín Ríos",
+    "total": "3500.00",
+    "status": "unPaid"
+  },
+  {
+    "id": 1197,
+    "code": "INV-9315",
+    "product": "Pipe Cutter PC-300",
+    "customer": "Evelyn Price",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-12",
+    "total": "19760.80"
+  },
+  {
+    "id": 1196,
+    "code": "INV-9314",
+    "product": "Portable Generator PG-3200",
+    "customer": "Arturo Medina",
+    "total": "6760.80",
+    "status": "paid"
+  },
+  {
+    "id": 1195,
+    "code": "INV-9313",
+    "product": "Air Nail Gun ANG-90",
+    "customer": "Harper Brooks",
+    "total": "3000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1194,
+    "code": "INV-9312",
+    "product": "Electric Chainsaw ECS-350",
+    "customer": "Mariana Paredes",
+    "total": "4000.00",
+    "status": "pending"
+  },
+  {
+    "id": 1193,
+    "code": "INV-9311",
+    "product": "Rotary Hammer RH-1500",
+    "customer": "Jackson Rivera",
+    "total": "6000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-11",
+    "total": "15480.40"
+  },
+  {
+    "id": 1192,
+    "code": "INV-9310",
+    "product": "Bench Drill Press BDP-750",
+    "customer": "Daniela Espinoza",
+    "total": "4580.40",
+    "status": "paid"
+  },
+  {
+    "id": 1191,
+    "code": "INV-9309",
+    "product": "Jigsaw JS-800",
+    "customer": "Logan Stewart",
+    "total": "2900.00",
+    "status": "paid"
+  },
+  {
+    "id": 1190,
+    "code": "INV-9308",
+    "product": "Cordless Drill CD-550",
+    "customer": "Andrea Guzmán",
+    "total": "8000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-10",
+    "total": "10740.50"
+  },
+  {
+    "id": 1189,
+    "code": "INV-9307",
+    "product": "Circular Saw CS-1200",
+    "customer": "Sebastián Vargas",
+    "total": "3240.50",
+    "status": "unPaid"
+  },
+  {
+    "id": 1188,
+    "code": "INV-9306",
+    "product": "Power Sander PS-400",
+    "customer": "Aria Murphy",
+    "total": "2500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1187,
+    "code": "INV-9305",
+    "product": "Angle Grinder AG-750",
+    "customer": "Maximiliano Fuentes",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-09",
+    "total": "14820.60"
+  },
+  {
+    "id": 1186,
+    "code": "INV-9304",
+    "product": "Router Set RS-1000",
+    "customer": "Penelope Coleman",
+    "total": "4820.60",
+    "status": "paid"
+  },
+  {
+    "id": 1185,
+    "code": "INV-9303",
+    "product": "Impact Driver ID-750",
+    "customer": "Emilio Rivas",
+    "total": "3500.00",
+    "status": "unpaid"
+  },
+  {
+    "id": 1184,
+    "code": "INV-9302",
+    "product": "Concrete Vibrator CV-2000",
+    "customer": "Stella Gray",
+    "total": "6500.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-08",
+    "total": "13650.90"
+  },
+  {
+    "id": 1183,
+    "code": "INV-9301",
+    "product": "Cordless Screwdriver CS-400",
+    "customer": "Leonardo Salazar",
+    "total": "1650.90",
+    "status": "paid"
+  },
+  {
+    "id": 1182,
+    "code": "INV-9300",
+    "product": "Plunge Router PR-1500",
+    "customer": "Claire Bryant",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1181,
+    "code": "INV-9299",
+    "product": "Table Saw TS-1800",
+    "customer": "Rodrigo Miranda",
+    "total": "7000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-07",
+    "total": "16740.20"
+  },
+  {
+    "id": 1180,
+    "code": "INV-9298",
+    "product": "Drill Press DP-850",
+    "customer": "Maya Russell",
+    "total": "5740.20",
+    "status": "paid"
+  },
+  {
+    "id": 1179,
+    "code": "INV-9297",
+    "product": "Heat Gun HG-1500",
+    "customer": "Federico Núñez",
+    "total": "2000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1178,
+    "code": "INV-9296",
+    "product": "Disc Sander DS-600",
+    "customer": "Zoey Griffin",
+    "total": "4000.00",
+    "status": "pending"
+  },
+  {
+    "id": 1177,
+    "code": "INV-9295",
+    "product": "Cordless Saw CS-500",
+    "customer": "Héctor Valdez",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-06",
+    "total": "12370.85"
+  },
+  {
+    "id": 1176,
+    "code": "INV-9294",
+    "product": "Hammer Drill HD-650",
+    "customer": "Nora Patterson",
+    "total": "3370.85",
+    "status": "paid"
+  },
+  {
+    "id": 1175,
+    "code": "INV-9293",
+    "product": "Plate Joiner PJ-500",
+    "customer": "Eduardo Montes",
+    "total": "2500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1174,
+    "code": "INV-9292",
+    "product": "Belt Sander BS-750",
+    "customer": "Leah Jenkins",
+    "total": "3500.00",
+    "status": "paid"
+  },
+  {
+    "id": 1173,
+    "code": "INV-9291",
+    "product": "Miter Saw MS-1200",
+    "customer": "Ignacio Cervantes",
+    "total": "3000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-05",
+    "total": "19850.30"
+  },
+  {
+    "id": 1172,
+    "code": "INV-9290",
+    "product": "Rotary Tool RT-300",
+    "customer": "Ruby Perry",
+    "total": "1850.30",
+    "status": "paid"
+  },
+  {
+    "id": 1171,
+    "code": "INV-9289",
+    "product": "Air Compressor AC-800",
+    "customer": "Alfonso Rangel",
+    "total": "6000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1170,
+    "code": "INV-9288",
+    "product": "Cordless Drill CD-800",
+    "customer": "Violet Powell",
+    "total": "4000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1169,
+    "code": "INV-9287",
+    "product": "Table Router TR-750",
+    "customer": "Renato Acosta",
+    "total": "8000.00",
+    "status": "pending"
+  },
+  {
+    "date": "2025-05-04",
+    "total": "15690.40"
+  },
+  {
+    "id": 1168,
+    "code": "INV-9286",
+    "product": "Bench Grinder BG-600",
+    "customer": "Sadie Long",
+    "total": "2690.40",
+    "status": "paid"
+  },
+  {
+    "id": 1167,
+    "code": "INV-9285",
+    "product": "Random Orbital Sander ROS-500",
+    "customer": "Guillermo Ponce",
+    "total": "3000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1166,
+    "code": "INV-9284",
+    "product": "Scroll Saw SS-650",
+    "customer": "Piper Flores",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1165,
+    "code": "INV-9283",
+    "product": "Tool Set Premium TS-200",
+    "customer": "Rogelio Campos",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-03",
+    "total": "14580.70"
+  },
+  {
+    "id": 1164,
+    "code": "INV-9282",
+    "product": "Wet/Dry Vacuum WDV-600",
+    "customer": "Lillian Henderson",
+    "total": "3580.70",
+    "status": "paid"
+  },
+  {
+    "id": 1163,
+    "code": "INV-9281",
+    "product": "Router Bit Set RBS-150",
+    "customer": "Erick Méndez",
+    "total": "3000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1162,
+    "code": "INV-9280",
+    "product": "Jigsaw JS-650",
+    "customer": "Naomi Barnes",
+    "total": "4000.00",
+    "status": "unpaid"
+  },
+  {
+    "id": 1161,
+    "code": "INV-9279",
+    "product": "Hand Planer HP-300",
+    "customer": "César Aguilar",
+    "total": "4000.00",
+    "status": "paid"
+  },
+  {
+    "date": "2025-05-02",
+    "total": "17240.50"
+  },
+  {
+    "id": 1160,
+    "code": "INV-9278",
+    "product": "Cordless Trimmer CT-400",
+    "customer": "Elena Harper",
+    "total": "2240.50",
+    "status": "paid"
+  },
+  {
+    "id": 1159,
+    "code": "INV-9277",
+    "product": "Chain Saw CS-500",
+    "customer": "Tomás Ríos",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1158,
+    "code": "INV-9276",
+    "product": "Portable Generator PG-2000",
+    "customer": "Hailey Grant",
+    "total": "6000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1157,
+    "code": "INV-9275",
+    "product": "Air Stapler AS-200",
+    "customer": "Omar Serrano",
+    "total": "4000.00",
+    "status": "pending"
+  },
+  {
+    "date": "2025-05-01",
+    "total": "20750.90"
+  },
+  {
+    "id": 1156,
+    "code": "INV-9274",
+    "product": "Rotary Hammer RH-800",
+    "customer": "Isabelle Knight",
+    "total": "4750.90",
+    "status": "paid"
+  },
+  {
+    "id": 1155,
+    "code": "INV-9273",
+    "product": "Compound Miter Saw CMS-250",
+    "customer": "Alonso Vega",
+    "total": "7000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1154,
+    "code": "INV-9272",
+    "product": "Drill Driver Set DDS-100",
+    "customer": "Layla Butler",
+    "total": "5000.00",
+    "status": "paid"
+  },
+  {
+    "id": 1153,
+    "code": "INV-9271",
+    "product": "Digital Multimeter DM-750",
+    "customer": "Pablo Contreras",
+    "total": "4000.00",
+    "status": "paid"
+  }
+]

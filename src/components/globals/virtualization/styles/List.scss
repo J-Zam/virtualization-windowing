@@ -1,0 +1,58 @@
+/* Shared container styles */
+.container {
+  display: flex;
+  min-height: calc(90vh - 64px);
+  width: 100%;
+
+  @media (min-width: 992px) {
+    min-height: calc(90vh - 112px);
+  }
+
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .loading {
+    color: #808080cf;
+    font-size: 1.1rem;
+  }
+}
+
+/* Base style for any list/grid item */
+.ItemBase {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1.08rem;
+  padding: 0.3rem 0.3rem;
+}
+
+/* Additional styles for list */
+.ListItemEven {
+  @extend .ItemBase;
+  border: 2px solid #b9b7bd92;
+  background-color: #f0f0ec9a;
+
+  @media (min-width: 576px) {
+    font-size: 1rem;
+    padding: 0.4rem 0.2rem;
+    border-color: #b9b7bd53;
+  }
+}
+
+.ListItemOdd {
+  @extend .ItemBase;
+  border: 2px solid #b9b7bd92;
+
+  @media (min-width: 576px) {
+    font-size: 1rem;
+    padding: 0.4rem 0.2rem;
+    border-color: #b9b7bd53;
+  }
+}
