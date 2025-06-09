@@ -1,8 +1,8 @@
 import Layout from "./globals/widgets/Layout";
 import { useNavigate } from "react-router-dom";
-import img1 from "../assets/menu-1.png"
-import img2 from "../assets/menu-2.png"
-import img3 from "../assets/menu-3.png"
+import img1 from "../assets/menu-1.jpg"
+import img2 from "../assets/menu-2.jpg"
+import img3 from "../assets/menu-3.jpg"
 import example from "../assets/example.png"
 import example1 from "../assets/example.gif"
 
